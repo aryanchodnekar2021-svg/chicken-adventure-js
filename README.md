@@ -55,3 +55,4 @@ This project demonstrates core game development concepts without the overhead of
 chicken-adventure/
 ├── index.html      # Contains the game structure and logic
 └── README.md       # Project documentation
+![Game Screenshot](chiken.png)
